@@ -3,7 +3,7 @@
    <img src="https://img.shields.io/badge/Status-En%20Desarrollo-green?style=plastic">
    <img src="https://img.shields.io/badge/Flutter-3776AB?style=plastic&logo=flutter&logoColor=white"/>
 
-<img src="./assets/Gif-Pokedex.gif"/>
+![Gif Pokedex](./assets/Gif-Pokedex.gif)
 
 ## Descripción del Proyecto
 Este repositorio contiene un prototipo de frontend de una aplicación móvil inspirada en una Pokedex. Esta aplicación esta desarrollada en Flutter, Además presenta una interfaz limpia e intuitiva para explorar y ver información detallada sobre algunos Pokémons.
