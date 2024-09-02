@@ -1,0 +1,36 @@
+name: pokedex
+description: "A new Flutter project."
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  carousel_slider: ^4.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+  
+  assets:
+    - assets/001.png
+    - assets/002.png
+    - assets/003.png
+    - assets/004.png
+
+  fonts:
+    - family: Nunito
+      fonts:
+        - asset: fonts/NunitoSans-Regular.ttf
